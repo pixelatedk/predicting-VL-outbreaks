@@ -9,9 +9,8 @@ our three-tier solution which...
 
 2) then, predicts geographical hotspots of future spread depending on weather conditions, soil moisture, humidity, and most importantly -- known diagnoses of VL
 <img width="678" height="388" alt="Screenshot 2026-01-26 at 1 41 17 AM" src="https://github.com/user-attachments/assets/6802d4d3-c060-44a4-b385-dc2173610a92" />
--bd73-b4a7820444d6" />
 
-4) before allowing local scientists to then geographically locate areas for wastewater RNA sequencing. which allows public health officials to accurately identify the spread of distinct VL strands.
+3) before allowing local scientists to then geographically locate areas for wastewater RNA sequencing. which allows public health officials to accurately identify the spread of distinct VL strands.
 
 attached in the repo is our demo for the geographical risk map. 
 
