@@ -10,7 +10,7 @@ our three-tier solution which...
 
 attached in the repo is our demo for the geographical risk map. 
 
-below is a basic diagramme of step one -- the temporal advantage gained:
+below is a basic diagramme of step one:
 
 
 <img width="868" height="497" alt="Screenshot 2026-01-26 at 1 08 23 AM" src="https://github.com/user-attachments/assets/38bb3cce-fdad-4207-9a85-935e9920dfac" />
