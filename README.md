@@ -11,8 +11,7 @@ our three-tier solution which...
 
 <img width="5200" height="3400" alt="leishmaniasis_risk_map_refined (3)" src="https://github.com/user-attachments/assets/b931d342-1867-4a56-bd73-b4a7820444d6" />
 
-
-3) before allowing local scientists to THEN geographically locate areas for wastewater RNA sequencing. which allows public health officials to accurately identify the spread of distinct VL strands.
+3) before allowing local scientists to then geographically locate areas for wastewater RNA sequencing. which allows public health officials to accurately identify the spread of distinct VL strands.
 
 attached in the repo is our demo for the geographical risk map. 
 
