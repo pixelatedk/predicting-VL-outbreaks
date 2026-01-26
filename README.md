@@ -9,6 +9,6 @@ our three-tier solution essentially quantifies:
 
 attached in the repo our demo for the geographical risk map. 
 
-below is a basic diagramme explaining step 1) the temporal advantage gained:
+below is a basic diagramme of step one -- the temporal advantage gained:
 
 <img width="766" height="389" alt="Screenshot 2026-01-26 at 12 43 18 AM" src="https://github.com/user-attachments/assets/a7e30737-f4a0-4c72-9952-ee3ba243bd1a" />
