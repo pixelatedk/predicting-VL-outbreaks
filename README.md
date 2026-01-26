@@ -9,7 +9,7 @@ our three-tier solution which...
 
 2) then, predicts geographical hotspots of future spread depending on weather conditions, soil moisture, humidity, and most importantly -- known diagnoses of VL
 
-
+<img width="5200" height="3400" alt="leishmaniasis_risk_map_refined (3)" src="https://github.com/user-attachments/assets/b931d342-1867-4a56-bd73-b4a7820444d6" />
 
 
 3) before allowing local scientists to THEN geographically locate areas for wastewater RNA sequencing. which allows public health officials to accurately identify the spread of distinct VL strands.
