@@ -1,4 +1,6 @@
-how can we use predictive modelling and computational biology to predict any future outbreak of NTDs (Neglected Tropical Diseases)? we propose a sentinel surveillance tracking system using pre-existing HIV patient care infrastructure.
+how can we use predictive modelling and computational biology to predict future outbreaks of NTDs (Neglected Tropical Diseases) in under-resourced communities? 
+
+we propose a sentinel surveillance tracking system using pre-existing HIV patient care infrastructure.
 
 our three-tier solution: 
 
