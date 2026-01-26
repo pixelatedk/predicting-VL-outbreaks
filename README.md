@@ -12,4 +12,5 @@ attached in the repo is our demo for the geographical risk map.
 
 below is a basic diagramme of step one -- the temporal advantage gained:
 
-<img width="766" height="389" alt="Screenshot 2026-01-26 at 12 43 18 AM" src="https://github.com/user-attachments/assets/a7e30737-f4a0-4c72-9952-ee3ba243bd1a" />
+
+<img width="868" height="497" alt="Screenshot 2026-01-26 at 1 08 23 AM" src="https://github.com/user-attachments/assets/38bb3cce-fdad-4207-9a85-935e9920dfac" />
