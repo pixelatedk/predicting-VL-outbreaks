@@ -1,4 +1,4 @@
-how can we use predictive modelling and computational biology to predict future outbreaks of NTDs (Neglected Tropical Diseases) in under-resourced communities? 
+how can we use predictive modelling and computational biology to predict future outbreaks of NTDs (Neglected Tropical Diseases) in under-resourced communities? Created by InViro Labs and advised by Dr Lindsey Fiddes
 
 we propose a sentinel surveillance tracking system using pre-existing HIV patient care infrastructure.
 
