@@ -17,5 +17,5 @@ our three-tier solution which...
 3) before allowing local scientists to then geographically locate areas for wastewater RNA sequencing. which allows public health officials to accurately identify the spread of distinct VL strands.
 
 
-
+Full Pitch Presented as Finalists at BioCatalyst 2026 
 [LeadTime by Inviro Labs. .pdf](https://github.com/user-attachments/files/25476379/LeadTime.by.Inviro.Labs.pdf)
