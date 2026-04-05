@@ -4,7 +4,8 @@ We built a predictive system that detects leishmaniasis outbreaks 3–6 weeks ea
 
 created by InViro Labs (Arya Bari, Marlene Bucher, Vicky Kuang)
 
-Advisory Board: Dr Lindsey Fiddes (Biomedical Engineering at UofT) and Dr. Natasha Christie-Holmes (Emerging Pandemic and Infections Consortium), PhD Candidate Lindsey Stern (BME)
+Advisory Board: Dr Lindsey Fiddes (BME at UofT) and Dr. Natasha Christie-Holmes (Emerging Pandemic and Infections Consortium at UofT), PhD Candidate Lindsey Stern (BME)
+Consulted with Dr. Rupert Kaul (UofT, University Health Network)
 
 we propose a sentinel surveillance tracking system using pre-existing HIV patient care infrastructure.
 
