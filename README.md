@@ -2,7 +2,7 @@ We built a predictive system that detects leishmaniasis outbreaks 3–6 weeks ea
 
 "How can we use predictive modelling and computational biology to predict future outbreaks of NTDs (Neglected Tropical Diseases) in under-resourced communities?"
 
-created by InViro Labs (Arya Bari, Marlene Bucher, Vicky Kuang)
+Abstract co-authored by InViro Labs (Arya Bari, Marlene Bucher, Vicky Kuang), full paper embargoed under conference guidelines.
 
 Advisory Board: Dr Lindsey Fiddes (BME at UofT) and Dr. Natasha Christie-Holmes (Emerging Pandemic and Infections Consortium at UofT), PhD Candidate Lindsey Stern (BME)
 Consulted with Dr. Rupert Kaul (UofT, University Health Network)
