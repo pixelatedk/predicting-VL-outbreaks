@@ -1,4 +1,4 @@
-We built a predictive system that detects leishmaniasis outbreaks 3–6 weeks earlier by using HIV+ case data as an early signal.
+We built a predictive system that detects leishmaniasis outbreaks earlier by using HIV+ case data as an early signal.
 
 "How can we use predictive modelling and computational biology to predict future outbreaks of NTDs (Neglected Tropical Diseases) in under-resourced communities?"
 
